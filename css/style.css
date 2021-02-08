@@ -52,7 +52,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #bbf5df;
+  box-shadow: 0 0 0 4px #f5dcdc;
 }
 
 .display-5 {
@@ -215,7 +215,7 @@ a:hover {
 .socials .ico-circle:hover {
   background-color: #be3131;
   color: #fff;
-  box-shadow: 0 0 0 3px #bbf5df;
+  box-shadow: 0 0 0 3px #f5dcdc;
   transition: all 500ms ease;
 }
 
@@ -271,15 +271,15 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #bbf5df;
-  border: 0px solid #bbf5df;
+  background: #f5dcdc;
+  border: 0px solid #f5dcdc;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #bbf5df;
+  background-color: #f5dcdc;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
@@ -648,11 +648,11 @@ a:hover {
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
-  color: #bbf5df;
+  color: #f5dcdc;
 }
 
 .intro-single .breadcrumb .breadcrumb-item.active {
-  color: #bbf5df;
+  color: #f5dcdc;
 }
 
 .intro-single .breadcrumb a {
@@ -691,7 +691,7 @@ a:hover {
   transition: all 500ms ease;
   color: #fff;
   background-color: #be3131;
-  box-shadow: 0 0 0 10px #bbf5df;
+  box-shadow: 0 0 0 10px #f5dcdc;
 }
 
 .service-box .service-ico {
